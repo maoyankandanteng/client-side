@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+#模块
+node_modules/
+
+#IDEA
+.idea/
